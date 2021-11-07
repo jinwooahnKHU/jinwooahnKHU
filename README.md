@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=#EA4335&logoColor=3776AB"/></a>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooahnKHU&show_icons=true&theme=radical)
+
+
 
