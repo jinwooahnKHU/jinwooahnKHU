@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/jinwoo-ahn-9b1a99222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=#EA4335&logoColor=3776AB"/></a>
 
+<a href="hhttps://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=#EA4335&logoColor=3776AB"/></a>
+
+
