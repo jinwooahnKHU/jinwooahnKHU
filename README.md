@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/jinwoo-ahn-9b1a99222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=#EA4335&logoColor=3776AB"/></a>
 
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=#EA4335&logoColor=3776AB"/></a><a href="https://www.cplusplus.com" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=#EA4335&logoColor=3776AB"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=#EA4335&logoColor=3776AB"/></a><a href="https://www.cplusplus.com" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=#EA4335&logoColor=3776AB"/></a><a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=#EA4335&logoColor=3776AB"/></a><a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=#EA4335&logoColor=3776AB"/></a>
 
 
 
